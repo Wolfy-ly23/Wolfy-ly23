@@ -18,7 +18,9 @@ I [Name: Kurro]
 I
 I [Age: [REDACTED]
 I
-I [Last Seen: UNKNOWN
+I [Gender: UNKNOWN]
+I
+I [Last Seen: UNKNOWN]
 I
 I [Games: VR,PC,Switch]
 I 
@@ -55,14 +57,55 @@ I     ↳ [ An message Just Got Recived " #8085 " ]
 I        ↳ [ End of Message ]
 I
 I
+I   [WORLD ONE]
+I    ↳ [EARTH]
+I       ↳ [Loaded Successfully]
+I
+I   [WORLD TWO]
+I    ↳ [V§$"!§$????]
+I       ↳ [Loaded.]
+I
+I
+I
+I
+I
+I
+I
+I
+I
 I
 I Important Notification: Most Data Has Been Hidden, Your Data Key Level Is Not High Enough to Redeem Thoose Kind Of Information, Your Data Key Level is "5" The Required Data Key Level is "7"
 I Please Notify Someone If Your Data Key Level Has Not Been Updated
 I
-I Logout?
 I
-I Connection Terminated..
-<!---
-Wolfy-ly23/Wolfy-ly23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I
+I [WARNING, WARNING, WARNING]
+I
+I
+I [INTRUDER DETECTED]
+I
+I [ALL DATA HAS BEEN LOCKED]
+I
+I [LOCATING INTRUDER]
+I
+I [LOCATION FOUND]
+I 
+I [RAPID RESPONSE TEAM HAS BEEN SEND ENROUTE]
+I
+I [LOCKDOWN PROTOCOL INITIATED]
+I
+I [ATTENTION, LOCKDOWN PROTOCOL HAS BEEN ACTIVATED FROM THE ADMINISTATOR TEAM, ALL PERSONAL HAS BEEN LOGGED OUT, PLEASE HEAD OVER TO YOUR SUPERVISOR FOR MORE INFORMATION]
+I
+I [TERMINAL LOCKDOWN]
+I
+I [EMERGENCY LOCKDOWN INITIATED]
+I
+I [Connection Lost]
+I
+I
+I
+I [NSS] [Security]
+I
+I
+I
+I
