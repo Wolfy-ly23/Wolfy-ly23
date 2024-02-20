@@ -47,6 +47,15 @@ I       [Text Loaded]
 I        ↳ ["There are 2 Worlds, The Real World, and the Internet, At one You Might Feel Comfortable, And in the Other one You have to Survive, Both are Important, so Treat Both Right"]
 I          ↳ [Text End]
 I    
+I
+I
+I        [Text Loaded]
+I        ↳ ["I cant Wait for the Day im Lying on the Floor slowly Fading Away and hearing the sound of the sirens"]
+I          ↳ [Text End]
+I
+I
+I
+I
 I       [Text Loaded]
 I        ↳ ["I think i just have To accept that im not an Kid anymore"]
 I          ↳ [Text End]
