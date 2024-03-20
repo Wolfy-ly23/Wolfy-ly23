@@ -41,6 +41,13 @@ I      [lizthecat12456]
 I       ↳ [Missing 2,5 Years]
 I          ↳ [No Further Information]
 I
+I       [???]
+I        ↳ [Missing 5 Years]
+I           ↳ [Status: Gone.]
+I
+I
+I
+I
 I
 I
 I       [Text Loaded]
@@ -109,7 +116,7 @@ I [TERMINAL LOCKDOWN]
 I
 I [EMERGENCY LOCKDOWN INITIATED]
 I
-I [Connection Lost]
+I [Connection Terminated]
 I
 I
 I
