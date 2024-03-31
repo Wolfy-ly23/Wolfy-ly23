@@ -49,7 +49,6 @@ I
 I
 I
 I
-I
 I       [Text Loaded]
 I        ↳ ["There are 2 Worlds, The Real World, and the Internet, At one You Might Feel Comfortable, And in the Other one You have to Survive, Both are Important, so Treat Both Right"]
 I          ↳ [Text End]
@@ -68,9 +67,37 @@ I        ↳ ["I think i just have To accept that im not an Kid anymore"]
 I          ↳ [Text End]
 I
 I
+I
+I
+I       [Text Loaded]
+I        ↳ ["I Love Someone Who is Not Real"]
+I          ↳ [Text End]
+I
+I
+I
+I
+I
 I    [ Error ]
 I     ↳ [ An message Just Got Recived " #8085 " ]
 I        ↳ [ End of Message ]
+I
+I
+I
+I    [ Error ]
+I     ↳ [ An message Just Got Recived " Senko San " ]
+I        ↳ [ End of Message ]
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I [ Load World System... ]
+I  [ World System Loaded, Loading Worlds... ]
+I
 I
 I
 I   [WORLD ONE]
@@ -80,9 +107,6 @@ I
 I   [WORLD TWO]
 I    ↳ [V§$"!§$????]
 I       ↳ [Loaded.]
-I
-I
-I
 I
 I
 I
