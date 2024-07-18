@@ -8,7 +8,7 @@ I [Password: **********]
 I
 I [Access Granted]
 I
-I [Data Key Level 5]
+I [Data Key Level 6]
 I
 I [Loading Information about User " Kurro "]
 I
@@ -18,7 +18,7 @@ I [Name: Kurro]
 I
 I [Age: [REDACTED]
 I
-I [Gender: UNKNOWN]
+I [Gender: MALE]
 I
 I [Last Seen: UNKNOWN]
 I
@@ -26,7 +26,7 @@ I [Games: VR,PC,Switch]
 I 
 I [Likes: Playing with Friends, Flying, Minigames]
 I
-I [Discord: {REDACTED}]
+I [Discord: {wolfy_ly23}]
 I
 I [Confirmed Missing Persons]
 I   ↳ [Apotext]
@@ -111,7 +111,7 @@ I
 I
 I
 I
-I Important Notification: Most Data Has Been Hidden, Your Data Key Level Is Not High Enough to Redeem Thoose Kind Of Information, Your Data Key Level is I "5" The Required Data Key Level is "7"
+I Important Notification: Most Data Has Been Hidden, Your Data Key Level Is Not High Enough to Redeem Thoose Kind Of Information, Your Data Key Level is I "6" The Required Data Key Level is "7"
 I Please Notify Someone If Your Data Key Level Has Not Been Updated
 I
 I
