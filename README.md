@@ -33,7 +33,7 @@ I   ↳ [Apotext]
 I      ↳ [Missing 2,5 Years]
 I         ↳ [No Further Information]
 I
-I       [???]
+I       [Eva]
 I      ↳ [Missing 0,5 Years]
 I         ↳ [No Further Information]
 I
@@ -41,36 +41,33 @@ I      [lizthecat12456]
 I       ↳ [Missing 2,5 Years]
 I          ↳ [No Further Information]
 I
-I       [???]
-I        ↳ [Missing 5 Years]
-I           ↳ [Status: Gone.]
 I
 I
 I
 I
 I
 I       [Text Loaded]
-I        ↳ ["There are 2 Worlds, The Real World, and the Internet, At one You Might Feel Comfortable, And in the Other one You have to Survive, Both are Important, so Treat Both Right"]
+I        ↳ ["The Digital World is Important, But Real life will always be the life you should take care the most of."]
 I          ↳ [Text End]
 I    
 I
 I
 I        [Text Loaded]
-I        ↳ ["I cant Wait for the Day im Lying on the Floor slowly Fading Away and hearing the sound of the sirens"]
+I        ↳ ["I Always wondered if im the only one who feels it?"]
 I          ↳ [Text End]
 I
 I
 I
 I
 I       [Text Loaded]
-I        ↳ ["I think i just have To accept that im not an Kid anymore"]
+I        ↳ ["VR is a way for me to Escape the World, it is not recommended though"]
 I          ↳ [Text End]
 I
 I
 I
 I
 I       [Text Loaded]
-I        ↳ ["I Love Someone Who is Not Real"]
+I        ↳ ["Why Do we live"]
 I          ↳ [Text End]
 I
 I
@@ -84,7 +81,7 @@ I
 I
 I
 I    [ Error ]
-I     ↳ [ An message Just Got Recived " Senko San " ]
+I     ↳ [ An message Just Got Recived " What if Area 51 is just like the SCP foundation " ]
 I        ↳ [ End of Message ]
 I
 I
@@ -106,7 +103,7 @@ I       ↳ [Loaded Successfully]
 I
 I   [WORLD TWO]
 I    ↳ [V§$"!§$????]
-I       ↳ [Loaded.]
+I       ↳ [Loaded Successfully]
 I
 I
 I
@@ -114,7 +111,7 @@ I
 I
 I
 I
-I Important Notification: Most Data Has Been Hidden, Your Data Key Level Is Not High Enough to Redeem Thoose Kind Of Information, Your Data Key Level is "5" The Required Data Key Level is "7"
+I Important Notification: Most Data Has Been Hidden, Your Data Key Level Is Not High Enough to Redeem Thoose Kind Of Information, Your Data Key Level is I "5" The Required Data Key Level is "7"
 I Please Notify Someone If Your Data Key Level Has Not Been Updated
 I
 I
@@ -134,7 +131,7 @@ I [RAPID RESPONSE TEAM HAS BEEN SEND ENROUTE]
 I
 I [LOCKDOWN PROTOCOL INITIATED]
 I
-I [ATTENTION, LOCKDOWN PROTOCOL HAS BEEN ACTIVATED FROM THE ADMINISTATOR TEAM, ALL PERSONAL HAS BEEN LOGGED OUT, PLEASE HEAD OVER TO YOUR SUPERVISOR FOR MORE INFORMATION]
+I [ATTENTION, LOCKDOWN PROTOCOL HAS BEEN ACTIVATED FROM THE ADMINISTATOR TEAM, ALL PERSONAL HAS BEEN LOGGED OUT, PLEASE HEAD OVER TO YOUR SUPERVISOR FOR I MORE INFORMATION]
 I
 I [TERMINAL LOCKDOWN]
 I
