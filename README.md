@@ -1,17 +1,20 @@
 I
 I
 I
-I                       IIIIIII     I I I I I      I      I   IIIIIII  IIIIIIIIII      IIIIIII                  
-I                       I     I    I         I     I     I    I        I         I     I           I           I
-I                       I     I    I         I     I    I     I        I          I    I             I       I
-I                       IIIIII     I         I     IIII       IIIIIII  I          I    IIIIIII         I   I
-I                       I          I         I     I    I     I        I          I    I               I   I
-I                       I          I         I     I     I    I        I         I     I             I       I
-I                       I           I I I I I      I      I   IIIIIII  IIIIIIIIIII     IIIIIII     I           I
-I
-I
-I
-I
+I                       IIIIIII     I I I I I      I      I   IIIIIII  IIIIIIIIII      IIIIIII                                                                                               I I I I I    I I I I I
+I                       I     I    I         I     I     I    I        I         I     I           I           I                                                                            I         I  I 
+I                       I     I    I         I     I    I     I        I          I    I             I       I                                                                              I         I  I
+I                       IIIIII     I         I     IIII       IIIIIII  I          I    IIIIIII         I   I                                                                                I         I   I I I I I
+I                       I          I         I     I    I     I        I          I    I               I   I                                                                                I         I            I
+I                       I          I         I     I     I    I        I         I     I             I       I                                                                              I         I            I
+I                       I           I I I I I      I      I   IIIIIII  IIIIIIIIIII     IIIIIII     I           I                                                                             I I I I I    I I I I I
+I                                                                                                                                       I I     I I    
+I                                                                                                                                      I I I I I I I I  
+I                                                                                                                                    I I I I I I I I I I
+I                                                                                                                                     I I I I I I I I I  
+I                                                                                                                                       I I I I I I I    
+I                                                                                                                                         I I I I I      
+I                                                                                                                                           I I I        
 I
 I
 I[LOADING DATA...]
