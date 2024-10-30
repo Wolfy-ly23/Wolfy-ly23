@@ -17,7 +17,7 @@ I                                                                               
 I                                                                                                                                           I I I        
 I
 I
-I[LOADING DATA...]
+I [LOADING DATA...]
 I
 I [DATA LOADED]
 I
@@ -168,5 +168,5 @@ I
 I [NSS] [Security]
 I
 I
-I
+I 
 I
