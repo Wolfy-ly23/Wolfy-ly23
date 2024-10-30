@@ -1,4 +1,20 @@
-I [LOADING DATA...]
+I
+I
+I
+I                       IIIIIII     I I I I I      I      I   IIIIIII  IIIIIIIIII      IIIIIII                  
+I                       I     I    I         I     I     I    I        I         I     I           I           I
+I                       I     I    I         I     I    I     I        I          I    I             I       I
+I                       IIIIII     I         I     IIII       IIIIIII  I          I    IIIIIII         I   I
+I                       I          I         I     I    I     I        I          I    I               I   I
+I                       I          I         I     I     I    I        I         I     I             I       I
+I                       I           I I I I I      I      I   IIIIIII  IIIIIIIIIII     IIIIIII     I           I
+I
+I
+I
+I
+I
+I
+I[LOADING DATA...]
 I
 I [DATA LOADED]
 I
@@ -18,7 +34,7 @@ I [Name: Kurro]
 I
 I [Age: [REDACTED]
 I
-I [Gender: MALE]
+I [Gender: Due to the Year 2024 My Legal Team Advised me not To enter anything.]
 I
 I [Last Seen: UNKNOWN]
 I
@@ -30,17 +46,22 @@ I [Discord: {wolfy_ly23}]
 I
 I [Confirmed Missing Persons]
 I   ↳ [Apotext]
-I      ↳ [Missing 2,5 Years]
+I      ↳ [Missing 3,0 Years]
 I         ↳ [No Further Information]
 I
 I       [Eva]
-I      ↳ [Missing 0,5 Years]
+I      ↳ [Missing 1,3 Years]
 I         ↳ [No Further Information]
 I
 I      [lizthecat12456]
 I       ↳ [Missing 2,5 Years]
 I          ↳ [No Further Information]
 I
+I
+I
+I       [Known As: Lilly]
+I       ↳ [Missing 0,2 Years]
+I          ↳ [Status: Police Found Clues on the Missing Person]
 I
 I
 I
