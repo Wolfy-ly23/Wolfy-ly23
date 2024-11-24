@@ -62,9 +62,6 @@ I          ↳ [No Further Information]
 I
 I
 I
-I       [Known As: Lilly]
-I       ↳ [Missing 0,2 Years]
-I          ↳ [Status: Police Found Clues on the Missing Person]
 I
 I
 I
