@@ -78,6 +78,11 @@ I          ↳ [Text End]
 I
 I
 I
+I        [Text Loaded]
+I        ↳ ["Restarted 2 Times"]
+I          ↳ [Text End]
+I
+I
 I
 I       [Text Loaded]
 I        ↳ ["VR is a way for me to Escape the World, it is not recommended though"]
