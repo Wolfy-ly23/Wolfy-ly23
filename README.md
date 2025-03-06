@@ -103,6 +103,22 @@ I          ↳ [Text End]
 I
 I
 I
+I       [Text Loaded]
+I        ↳ ["Does Restarting Life Really helps.. But maybe i should start it completly new.. Cut off Family, Friends, My Job, Just Everything.. New Phone number, New Name, Everything that reminds me of my Past... Gone.."]
+I          ↳ [Text End]
+I
+I
+I
+I       [Text Loaded]
+I        ↳ ["Waiting for the Day where Everything Changes... But what if its goes worse then it is Now.. Will i suffer more?"]
+I          ↳ [Text End]
+I
+I
+I
+I
+I
+I
+I
 I    [ Error ]
 I     ↳ [ An message Just Got Recived " #8085 " ]
 I        ↳ [ End of Message ]
