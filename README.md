@@ -61,8 +61,8 @@ I       ↳ [Missing 2,5 Years]
 I          ↳ [No Further Information]
 I
 I      [NAME: CLASSEFIED]
-I       ↳ [Status: Back<3 ]
-I          ↳ [Information: I am Glad for However this was possible to see you again, i was scared to talk with you, but yet you talked to me like nothing ever hapened, thank you.. alot :) ] 
+I       ↳ [Status: Returned ]
+I          ↳ [Information: Person has Returned, Reasons are Unknown yet ] 
 I
 I
 I
@@ -96,6 +96,10 @@ I        ↳ ["Why Do we live"]
 I          ↳ [Text End]
 I
 I
+I
+I       [Text Loaded]
+I        ↳ ["Suicide is a Permanent Solution for Temporary Solutions."]
+I          ↳ [Text End]
 I
 I
 I
