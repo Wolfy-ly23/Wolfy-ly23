@@ -113,6 +113,10 @@ I        ↳ ["Suicide is a Permanent Solution for Temporary Solutions."]
 I          ↳ [Text End]
 I
 I
+I       [Text Loaded]
+I        ↳ ["And Suddenly.. Everyone had a X On their Face."]
+I          ↳ [Text End]
+I
 I
 I       [Text Loaded]
 I        ↳ ["Does Restarting Life Really helps.. But maybe i should start it completly new.. Cut off Family, Friends, My Job, Just Everything.. New Phone number, New Name, Everything that reminds me of my Past... Gone.."]
