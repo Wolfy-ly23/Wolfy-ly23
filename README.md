@@ -16,7 +16,11 @@ I                                                                               
 I                                                                                                                                         I I I I I      
 I                                                                                                                                           I I I        
 I
-I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+I                                                                     I
+I                        INFORMATION                                  I
+I                                                                     I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 I [LOADING DATA...]
 I
 I [DATA LOADED]
@@ -27,7 +31,7 @@ I [Password: **********]
 I
 I [Access Granted]
 I
-I [Data Key Level 6]
+I [Data Key Level 5]
 I
 I [Loading Information about User " Kurro "]
 I
@@ -46,14 +50,18 @@ I
 I [Likes: Playing with Friends, Flying, Minigames]
 I
 I [Discord: {wolfy_ly23}]
-I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+I                                                             I
+I                     MISSING PERSON                          I
+I                                                             I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 I [Confirmed Missing Persons]
 I   ↳ [Apotext]
 I      ↳ [Missing 3,0 Years]
 I         ↳ [No Further Information]
 I
 I       [Eva]
-I      ↳ [Missing 1,3 Years]
+I      ↳ [Missing 2,3 Years]
 I         ↳ [No Further Information]
 I
 I      [lizthecat12456]
@@ -64,8 +72,11 @@ I      [NAME: CLASSEFIED]
 I       ↳ [Status: Returned ]
 I          ↳ [Information: Person has Returned, Reasons are Unknown yet ] 
 I
-I
-I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+I                                                                                I
+I                               The Core                                         I
+I                                                                                I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 I       [Text Loaded]
 I        ↳ ["The Digital World is Important, But Real life will always be the life you should take care the most of."]
 I          ↳ [Text End]
@@ -156,7 +167,7 @@ I
 I
 I
 I
-I Important Notification: Most Data Has Been Hidden, Your Data Key Level Is Not High Enough to Redeem Thoose Kind Of Information, Your Data Key Level is I "6" The Required Data Key Level is "7"
+I Important Notification: Most Data Has Been Hidden, Your Data Key Level Is Not High Enough to Redeem Thoose Kind Of Information, Your Data Key Level is I "5" The Required Data Key Level is "7"
 I Please Notify Someone If Your Data Key Level Has Not Been Updated
 I
 I
