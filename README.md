@@ -41,13 +41,13 @@ I [Name: Kurro]
 I
 I [Age: [REDACTED]
 I
-I [Gender: Due to the Year 2024 My Legal Team Advised me not To enter anything.]
-I
 I [Last Seen: UNKNOWN]
 I
 I [Games: VR,PC,Switch]
 I 
 I [Likes: Playing with Friends, Flying, Minigames]
+I
+I [I got Forced to do this Github Page]
 I
 I [Discord: {wolfy_ly23}]
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
