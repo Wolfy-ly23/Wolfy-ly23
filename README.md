@@ -88,6 +88,9 @@ I        ↳ ["I Always wondered if im the only one who feels it?"]
 I          ↳ [Text End]
 I
 I
+I        [Text Loaded]
+I        ↳ ["If someone Breaks the Trust once, You cannot trust them again, No matter what happens."]
+I          ↳ [Text End]
 I
 I        [Text Loaded]
 I        ↳ ["Restarted 2 Times"]
