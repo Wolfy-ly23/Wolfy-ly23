@@ -57,11 +57,11 @@ I                                                             I
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 I [Confirmed Missing Persons]
 I   ↳ [Apotext]
-I      ↳ [Missing 3,0 Years]
+I      ↳ [Missing 4,0 Years]
 I         ↳ [No Further Information]
 I
 I       [Eva]
-I      ↳ [Missing 2,3 Years]
+I      ↳ [Missing 3,1 Years]
 I         ↳ [No Further Information]
 I
 I      [lizthecat12456]
@@ -93,13 +93,13 @@ I        ↳ ["If someone Breaks the Trust once, You cannot trust them again, No
 I          ↳ [Text End]
 I
 I        [Text Loaded]
-I        ↳ ["Restarted 2 Times"]
+I        ↳ ["Restarted 3 Times"]
 I          ↳ [Text End]
 I
 I
 I
 I       [Text Loaded]
-I        ↳ ["VR is a way for me to Escape the World, it is not recommended though"]
+I        ↳ ["VR is a way for some to Escape the World, it is not recommended though"]
 I          ↳ [Text End]
 I
 I
@@ -205,7 +205,9 @@ I [EMERGENCY LOCKDOWN INITIATED]
 I
 I [Connection Terminated]
 I
-I
+I [Signal lost. Reconnecting...]
+I [ Reconnecting Failed.]
+I [YOUR SIGNAL ISNT STRONG ENOUGH.]
 I
 I [NSS] [Security]
 I
